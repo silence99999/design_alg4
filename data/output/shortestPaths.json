@@ -1,0 +1,11 @@
+{
+    "paths": {"To 0": {
+        "path": [0],
+        "distance": 0
+    }},
+    "metrics": {
+        "operationCount": 0,
+        "elapsedTimeNs": 9800
+    },
+    "sourceScc": 0
+}

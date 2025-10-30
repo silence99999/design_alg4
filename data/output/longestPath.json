@@ -1,0 +1,8 @@
+{
+    "criticalPathLength": 0,
+    "criticalPath": [],
+    "metrics": {
+        "operationCount": 0,
+        "elapsedTimeNs": 8300
+    }
+}
